@@ -31,4 +31,9 @@ export class ItemsComponent implements OnInit {
     ];
   }
 
+  deleteItem(item: Item) {
+    this.items.forEach(x => console.log("imprimir "+{x}));
+    this.items = this.items.filter(x =>x.id != item.id)
+  }
+
 }
