@@ -1,10 +1,10 @@
 # Shopping List
 
-_Este proyecto es una aplicación en la que presento una lista de compras, utilizando el framework de Angular.
+Este proyecto es una aplicación en la que presento una lista de compras, utilizando el framework de Angular.
 
 ## Comenzando 🚀
 
-_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
+Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas.
 
 _Simplemente clona el proyecto del repositorio en tu directorio favorito,
 y luego sigue las instrucciones de instalación._
@@ -15,6 +15,7 @@ _Que cosas necesitas para instalar el software y como instalarlas_
 
 * [NodeJS](https://nodejs.org/es/), el cual va a instalar el administrador de paquetes npm.
 * [Angular-CLI](https://angular.io/cli), para ejecutar el proyecto en el entorno de Angular.
+* [Shopping List Backend](https://github.com/LeandroAntunez/shopping-list-backend). Debe estar funcionando para persistir la información.
 * [Visual Studio Code](https://code.visualstudio.com/). Es opcional, cualquier IDE o editor de texto para visualizar mejor el código.
 
 _Solo descárgalas y las instalas en tu OS preferido,
